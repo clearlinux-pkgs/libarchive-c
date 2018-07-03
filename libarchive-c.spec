@@ -4,7 +4,7 @@
 #
 Name     : libarchive-c
 Version  : 2.8
-Release  : 20
+Release  : 21
 URL      : http://pypi.debian.net/libarchive-c/libarchive-c-2.8.tar.gz
 Source0  : http://pypi.debian.net/libarchive-c/libarchive-c-2.8.tar.gz
 Summary  : Python interface to libarchive
