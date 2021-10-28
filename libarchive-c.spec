@@ -4,7 +4,7 @@
 #
 Name     : libarchive-c
 Version  : 2.9
-Release  : 42
+Release  : 43
 URL      : https://files.pythonhosted.org/packages/63/fe/9e6c78db381934e28c7ec3d30d4f209fe24442d17f1bd8c56d13ae185cf6/libarchive-c-2.9.tar.gz
 Source0  : https://files.pythonhosted.org/packages/63/fe/9e6c78db381934e28c7ec3d30d4f209fe24442d17f1bd8c56d13ae185cf6/libarchive-c-2.9.tar.gz
 Summary  : Python interface to libarchive
